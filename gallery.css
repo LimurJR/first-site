@@ -1,0 +1,77 @@
+
+body{
+  background-repeat: no-repeat;
+  background: #FFE2D2;
+}
+
+
+  
+  
+    .box1 { 
+      background: #f0f0f0; 
+      width: 100px; 
+      padding: 100px; 
+      border: 10px solid #000; 
+      
+     }
+       
+     nav{
+      width:100%;
+        margin:10px ;
+               background:#FF7F26;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: stretch;
+      padding: 0 10px;
+      box-sizing: border-box;
+      color: white;
+      
+    } 
+    .nav{
+      display: block;
+      padding: 15px;/*размер шапки*/
+      margin:10px;
+      font-size: 40px
+    }
+     /*стили для галлереи*/
+    Gallery{
+      width:100%;
+      margin:10 ;
+             background:#FFE2D2;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: stretch; 
+    padding: 0 10px;
+    box-sizing: border-box;
+    color: white;
+    }
+
+    .Gallery{
+    display: block;
+    padding: 15px;/*глаллереи*/
+    margin: 10px;
+    font-size: 40px
+
+    }
+  .Photo{
+   margin: 10px;
+  padding: 5px;
+  
+  }
+
+  A {
+    text-decoration: none; /* Убирает подчеркивание для ссылок */
+    color: white; /* Ссылка красного цвета */
+   } 
+
+
+
+
+
+
+
+
+
+
